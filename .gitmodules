@@ -1,0 +1,18 @@
+[submodule "choerodon-microservice-template"]
+	path = choerodon-microservice-template
+	url = https://github.com/choerodon/choerodon-microservice-template.git
+[submodule "choerodon-front-template"]
+	path = choerodon-front-template
+	url = https://github.com/choerodon/choerodon-front-template.git
+[submodule "choerodon-javalib-template"]
+	path = choerodon-javalib-template
+	url = https://github.com/choerodon/choerodon-javalib-template.git
+[submodule "choerodon-mocha-template"]
+	path = choerodon-mocha-template
+	url = https://github.com/choerodon/choerodon-mocha-template.git
+[submodule "choerodon-golang-template"]
+	path = choerodon-golang-template
+	url = https://github.com/choerodon/choerodon-golang-template.git
+[submodule "choerodon-springboot-template"]
+	path = choerodon-springboot-template
+	url = https://github.com/choerodon/choerodon-springboot-template.git

@@ -16,3 +16,6 @@
 [submodule "choerodon-springboot-template"]
 	path = choerodon-springboot-template
 	url = https://github.com/choerodon/choerodon-springboot-template.git
+[submodule "choerodon-testng-template"]
+	path = choerodon-testng-template
+	url = https://github.com/choerodon/choerodon-testng-template.git

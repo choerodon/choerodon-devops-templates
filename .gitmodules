@@ -22,3 +22,6 @@
 [submodule "choerodon-hap-template"]
 	path = choerodon-hap-template
 	url = https://github.com/choerodon/choerodon-hap-template
+[submodule "choerodon-testng-selenium-template"]
+	path = choerodon-testng-selenium-template
+	url = https://github.com/choerodon/choerodon-testng-selenium-template.git

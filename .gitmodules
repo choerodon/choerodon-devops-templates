@@ -25,3 +25,12 @@
 [submodule "choerodon-testng-selenium-template"]
 	path = choerodon-testng-selenium-template
 	url = https://github.com/choerodon/choerodon-testng-selenium-template.git
+[submodule "choerodon-php-template"]
+	path = choerodon-php-template
+	url = https://github.com/choerodon/choerodon-php-template.git
+[submodule "choerodon-python-template"]
+	path = choerodon-python-template
+	url = https://github.com/choerodon/choerodon-python-template.git
+[submodule "choerodon-aspnetapp-template"]
+	path = choerodon-aspnetapp-template
+	url = https://github.com/choerodon/choerodon-aspnetapp-template.git
